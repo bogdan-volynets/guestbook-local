@@ -1,5 +1,5 @@
 # Chart.yaml
 apiVersion: v2        # required by Helm v3
 name: my-chart        # required
-version: 0.1.0        # chart (package) version, required
-appVersion: "1.0.0"   # optional: version of the app you're deploying
+version: 0.2.0        # chart (package) version, required
+appVersion: "2.0.0"   # optional: version of the app you're deploying
